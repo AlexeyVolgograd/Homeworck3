@@ -1,0 +1,7 @@
+my_string=input("Введите имя пользователя")
+print(len(my_string))
+print(my_string.upper())
+print(my_string.lower())
+myString=input('Введите имя пользователя')
+print(myString.find(0))
+print(myString.rfind(0))
